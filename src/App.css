@@ -1,0 +1,52 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  height: 60px;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  z-index: 99;
+  margin-top: 0;
+  font-family: sans-serif;
+  color: rgb(23, 135, 199);
+  }
+
+.asset {
+  width: 260px;
+  height: 160px;
+  border-radius: 0;
+}
+
+.color {
+  color: rgb(228, 224, 19);
+  margin: 0 10px;
+}
+
+.logo {
+  cursor: pointer;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  color: rgb(255, 123, 0);
+}
+
+.judul {
+  font-weight: bold;
+  margin-top: 60px;
+}
+
+.name {
+  color: rgb(238, 28, 28);
+}
+
+
+
